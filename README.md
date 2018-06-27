@@ -2,7 +2,7 @@
 Class Project 
 Jill Trevallee
 
->A goal of for next semester would be to graduate.
+>A goal for next semester would be to graduate.
 
 Class | Day
 ------ | ------
