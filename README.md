@@ -2,9 +2,10 @@
 Class Project 
 Jill Trevallee
 >A goal of for next semester would be to graduate.
-Monday | Tuesday 
+Class | Day
 ------------ | -------------
-IT1025 | Calculus
+IT1025 | Monday
+Calculus | Tuesday
 ###Example Code
 ```javascript
 <html>
